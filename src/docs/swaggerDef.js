@@ -16,9 +16,6 @@ const swaggerDef = {
       url: `https://todolist-express-mongodb.glitch.me/v1/`,
     },
     {
-      url: `https://todolist-express-mongodb.glitch.me:3000/v1/`,
-    },
-    {
       url: `http://localhost:${config.port}/v1`,
     },
   ],
